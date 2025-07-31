@@ -1,7 +1,0 @@
-this is an eaxmple
-
-this is a new line
-
-this is another line
-
-one more line
